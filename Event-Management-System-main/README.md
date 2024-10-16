@@ -32,8 +32,7 @@ This Project Uses the Concepts of **Object Oriented Programming (OOP)** and STL
 - [Event](https://github.com/sallar-ba/Event-Management-System/blob/main/University-Event-Management-System/Event.h)
 
 
-### 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sallar-ba/)
+
 
 
 ## Screenshot
